@@ -1,4 +1,4 @@
-# VQ-VAE
+# Autoencoders
 
 ## 1. Autoencoder 
 
